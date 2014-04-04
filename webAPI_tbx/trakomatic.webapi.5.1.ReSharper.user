@@ -1,0 +1,127 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="string" priority="5" />
+      <Item value="var" priority="3" />
+      <Item value="new" priority="4" />
+      <Item value="List" priority="1" />
+      <Item value="siteList" priority="1" />
+      <Item value="reader" priority="3" />
+      <Item value="return" priority="4" />
+      <Item value="IEnumerable" priority="0" />
+      <Item value="Dictionary" priority="1" />
+      <Item value="resultDict" priority="0" />
+      <Item value="Dictionary&lt;string,string&gt;" priority="1" />
+      <Item value="min" priority="2" />
+      <Item value="fortnight" priority="5" />
+      <Item value="month" priority="3" />
+      <Item value="hour" priority="1" />
+      <Item value="output3" priority="0" />
+      <Item value="output2" priority="0" />
+      <Item value="week" priority="1" />
+      <Item value="isgroup" priority="0" />
+      <Item value="public" priority="0" />
+      <Item value="CapacityController`0" priority="2" />
+      <Item value="CapacityController" priority="0" />
+      <Item value="EnvironmentVariableTarget`0" priority="2" />
+      <Item value="query" priority="2" />
+      <Item value="query1" priority="1" />
+      <Item value="query2" priority="0" />
+      <Item value="maxval" priority="1" />
+      <Item value="DateTime`0" priority="0" />
+      <Item value="startdt" priority="0" />
+      <Item value="enddt" priority="0" />
+      <Item value="querya" priority="0" />
+      <Item value="queryc" priority="0" />
+      <Item value="queryd" priority="0" />
+      <Item value="gid" priority="2" />
+      <Item value="siteIds" priority="0" />
+      <Item value="deviceIds" priority="6" />
+      <Item value="String`0" priority="5" />
+      <Item value="siteid" priority="0" />
+      <Item value="for" priority="0" />
+      <Item value="siteid_device" priority="0" />
+      <Item value="output" priority="0" />
+      <Item value="count" priority="2" />
+      <Item value="starttime" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="ToString`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Dictionary`2">
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="B1407793-E348-44D5-B01B-546E9202B867/d:Controllers/f:sampleController.cs" caret="0" fromTop="0" />
+      <File id="B1407793-E348-44D5-B01B-546E9202B867/d:Controllers/f:StatusController.cs" caret="0" fromTop="0" />
+      <File id="B1407793-E348-44D5-B01B-546E9202B867/d:App_Start/f:AttributeRoutingHttpConfig.cs" caret="537" fromTop="14" />
+      <File id="B1407793-E348-44D5-B01B-546E9202B867/f:auth.cs" caret="1289" fromTop="19" />
+      <File id="B1407793-E348-44D5-B01B-546E9202B867/d:Controllers/f:SessionController.cs" caret="0" fromTop="0" />
+      <File id="B1407793-E348-44D5-B01B-546E9202B867/d:Controllers/f:ExitController.cs" caret="12009" fromTop="111" />
+      <File id="B1407793-E348-44D5-B01B-546E9202B867/d:Controllers/f:EntryController.cs" caret="13" fromTop="0" />
+      <File id="B1407793-E348-44D5-B01B-546E9202B867/d:Controllers/f:SettingsController.cs" caret="1266" fromTop="42" />
+      <File id="B1407793-E348-44D5-B01B-546E9202B867/d:Controllers/f:AccountController.cs" caret="728" fromTop="31" />
+      <File id="B1407793-E348-44D5-B01B-546E9202B867/d:Controllers/f:ParentController.cs" caret="14462" fromTop="40" />
+      <File id="B1407793-E348-44D5-B01B-546E9202B867/f:Web.config" caret="4884" fromTop="79" />
+      <File id="B1407793-E348-44D5-B01B-546E9202B867/d:Controllers/f:DeviceController.cs" caret="5072" fromTop="102" />
+      <File id="B1407793-E348-44D5-B01B-546E9202B867/d:Controllers/f:maxController.cs" caret="1260" fromTop="37" />
+      <File id="B1407793-E348-44D5-B01B-546E9202B867/d:Controllers/f:HomeController.cs" caret="0" fromTop="0" />
+      <File id="B1407793-E348-44D5-B01B-546E9202B867/d:Controllers/f:CapacityController.cs" caret="22682" fromTop="13" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="B1407793-E348-44D5-B01B-546E9202B867/d:Controllers/f:AccountController.cs" caret="6009" fromTop="17" />
+      <File id="B1407793-E348-44D5-B01B-546E9202B867/d:Controllers/f:AccountController.cs" caret="4176" fromTop="8" />
+      <File id="B1407793-E348-44D5-B01B-546E9202B867/d:Controllers/f:AccountController.cs" caret="5266" fromTop="9" />
+      <File id="B1407793-E348-44D5-B01B-546E9202B867/d:Controllers/f:ParentController.cs" caret="4496" fromTop="25" />
+      <File id="B1407793-E348-44D5-B01B-546E9202B867/d:Controllers/f:ParentController.cs" caret="6758" fromTop="57" />
+      <File id="B1407793-E348-44D5-B01B-546E9202B867/d:Controllers/f:ParentController.cs" caret="7092" fromTop="48" />
+      <File id="B1407793-E348-44D5-B01B-546E9202B867/d:Controllers/f:ParentController.cs" caret="9179" fromTop="79" />
+      <File id="B1407793-E348-44D5-B01B-546E9202B867/d:Controllers/f:ParentController.cs" caret="9830" fromTop="68" />
+      <File id="B1407793-E348-44D5-B01B-546E9202B867/d:Controllers/f:ParentController.cs" caret="11641" fromTop="99" />
+      <File id="B1407793-E348-44D5-B01B-546E9202B867/d:Controllers/f:ParentController.cs" caret="10464" fromTop="60" />
+      <File id="B1407793-E348-44D5-B01B-546E9202B867/d:Controllers/f:ParentController.cs" caret="11994" fromTop="52" />
+      <File id="B1407793-E348-44D5-B01B-546E9202B867/d:Controllers/f:ParentController.cs" caret="14095" fromTop="83" />
+      <File id="B1407793-E348-44D5-B01B-546E9202B867/d:Controllers/f:CapacityController.cs" caret="68954" fromTop="67" />
+      <File id="B1407793-E348-44D5-B01B-546E9202B867/d:Controllers/f:CapacityController.cs" caret="113335" fromTop="67" />
+      <File id="B1407793-E348-44D5-B01B-546E9202B867/d:Controllers/f:CapacityController.cs" caret="22094" fromTop="71" />
+      <File id="B1407793-E348-44D5-B01B-546E9202B867/d:Controllers/f:CapacityController.cs" caret="69225" fromTop="42" />
+      <File id="B1407793-E348-44D5-B01B-546E9202B867/d:Controllers/f:CapacityController.cs" caret="69772" fromTop="64" />
+      <File id="B1407793-E348-44D5-B01B-546E9202B867/d:Controllers/f:maxController.cs" caret="894" fromTop="26" />
+      <File id="B1407793-E348-44D5-B01B-546E9202B867/d:Controllers/f:AccountController.cs" caret="2637" fromTop="55" />
+      <File id="B1407793-E348-44D5-B01B-546E9202B867/d:Controllers/f:AccountController.cs" caret="3078" fromTop="54" />
+      <File id="B1407793-E348-44D5-B01B-546E9202B867/d:Controllers/f:AccountController.cs" caret="2146" fromTop="20" />
+      <File id="B1407793-E348-44D5-B01B-546E9202B867/d:Controllers/f:AccountController.cs" caret="4040" fromTop="26" />
+      <File id="B1407793-E348-44D5-B01B-546E9202B867/d:Controllers/f:AccountController.cs" caret="4541" fromTop="33" />
+      <File id="B1407793-E348-44D5-B01B-546E9202B867/d:Controllers/f:AccountController.cs" caret="3539" fromTop="45" />
+      <File id="B1407793-E348-44D5-B01B-546E9202B867/d:Controllers/f:AccountController.cs" caret="5654" fromTop="69" />
+      <File id="B1407793-E348-44D5-B01B-546E9202B867/d:Controllers/f:AccountController.cs" caret="5080" fromTop="37" />
+      <File id="B1407793-E348-44D5-B01B-546E9202B867/f:Web.config" caret="1479" fromTop="26" />
+      <File id="B1407793-E348-44D5-B01B-546E9202B867/f:Web.config" caret="905" fromTop="13" />
+      <File id="B1407793-E348-44D5-B01B-546E9202B867/d:Controllers/f:CapacityController.cs" caret="22506" fromTop="28" />
+      <File id="B1407793-E348-44D5-B01B-546E9202B867/d:Controllers/f:CapacityController.cs" caret="22668" fromTop="28" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>
